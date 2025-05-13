@@ -13,7 +13,7 @@ O objetivo é simular como motores de busca (como o Google) visitam e ranqueiam 
 
 ---
 
-**Link para o vídeo de implementação e epresentação do código:**
+**Link para o vídeo de apresentação e implementação do código:**
 
 
 
